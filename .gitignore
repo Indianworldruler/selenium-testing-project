@@ -1,0 +1,7 @@
+/target/
+/reports/*.html
+/screenshots/*.png
+/logs/*.log
+/logs/*.gz
+*.DS_Store
+.vscode/
